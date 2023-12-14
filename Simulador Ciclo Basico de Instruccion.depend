@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1702528969 source:c:\users\manue\onedrive\escritorio\universidad\2023 - 2\sistemas operativos\simulador ciclo basico de instruccion\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	"Proceso.h"
+
+1702517998 c:\users\manue\onedrive\escritorio\universidad\2023 - 2\sistemas operativos\simulador ciclo basico de instruccion\proceso.h
+	<string>
+
+1702521790 source:c:\users\manue\onedrive\escritorio\universidad\2023 - 2\sistemas operativos\simulador ciclo basico de instruccion\proceso.cpp
+	<iostream>
+	<string>
+	"Proceso.h"
+
